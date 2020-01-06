@@ -11,5 +11,5 @@ My project aims to share my bikeshare python project on Github
 I used mainly python and csv files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://pymotw.com/3/statistics in statistic tools
+mentors or other's answeres to students difficulties
