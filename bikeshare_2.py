@@ -82,15 +82,15 @@ def time_stats(df):
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
-    # display the most common month
+    # display the most common month where bikeshare is needed 
     popular_month = df['month'].mode()[0]
     print("\nThe most popular month is ", popular_month)
 
-    # display the most common day of week
+    # display the most common day of week where bikeshare is needed
     popular_day = df['day_of_week'].mode()[0]
     print("\nThe most popular day is ", popular_day)
 
-    # display the most common start hour
+    # display the most common start hour where bikeshare is needed
     df['Start Time'] = pd.to_datetime(df['Start Time'])
     df['hour'] = df['Start Time'].dt.hour
     popular_start_hour = df['hour'].mode()[0]
