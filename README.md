@@ -12,4 +12,4 @@ Include the files used
 
 ### Credits
 https://pymotw.com/3/statistics in statistic tools
-
+mentors or other's answeres to students difficulties
