@@ -5,7 +5,7 @@
 pdsnd_github
 
 ### Description
-My project aims to share my bikeshare python project on Github
+Share my bikeshare python project on Github
 
 ### Files used
 I used mainly python and csv files
