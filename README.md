@@ -2,7 +2,7 @@
 06/01/220
 
 ### Project Title
-pdsnd_github
+Project title is pdsnd github
 
 ### Description
 My project aims to share my bikeshare python project on Github
