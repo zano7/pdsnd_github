@@ -11,5 +11,5 @@ Describe what your project is about and what it does
 Include the files used
 
 ### Credits
-https://pymotw.com/3/statistics in statistic tools
-mentors or other's answeres to students difficulties
+website: https://pymotw.com/3/statistics in statistic tools
+other sources: mentors or other's answeres to students difficulties
